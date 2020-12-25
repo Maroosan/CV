@@ -1,6 +1,6 @@
-<style>
-a:link {
-  color: green;
+
+a: active{
+  color: white;
   background-color: transparent;
   text-decoration: none;
 }
@@ -16,13 +16,9 @@ a:hover {
   background-color: transparent;
   text-decoration: underline;
 }
-
-a:active {
-  color: yellow;
-  background-color: transparent;
-  text-decoration: underline;
+hr {
+    border-width: 5px;
+    border-style: dotted none none;
+    border-color: rgb(192, 129, 178);
+    width: 5%;
 }
-</style>
-
-
-
